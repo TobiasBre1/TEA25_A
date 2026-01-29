@@ -3,3 +3,4 @@ Alexander Hoppe
 Simon Amper
 René Kipp
 Linus Domeyer
+Robin Lanz
